@@ -41,4 +41,5 @@ try
 catch (DeadPetException)
 {
     Console.WriteLine("rip-bozo");
+    Console.WriteLine("chcipak jeden");
 }
