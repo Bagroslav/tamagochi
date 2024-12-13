@@ -1,4 +1,1 @@
 # tamagochi
-# tamagochi
-# tamagochi
-# tamagochi
